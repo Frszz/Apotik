@@ -41,6 +41,14 @@ img {
 }
 
 /*=============== LOGIN ===============*/
+form img{
+  width: 500px;
+  height: 150px;
+  margin-bottom: 20px;
+  border-radius: 5%;
+  border-radius: 1rem;
+  border: 3px solid hsla(0, 0%, 100%, 0.7);
+}
 .login {
   position: relative;
   height: 100vh;
